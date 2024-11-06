@@ -2,6 +2,7 @@
 
 
 **Project Description for Fake News Detection**
+
 Project Title: Fake News Detection Using Machine Learning
 
 Overview: This project addresses the growing concern of misinformation by developing a machine learning-based system to detect fake news articles. By analyzing features such as the article's title, author, and content, the system classifies news articles as either real or fake, providing a timely solution to combat the spread of false information.
